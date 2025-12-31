@@ -10,4 +10,6 @@ rencana ekspor zky
 * kayu manis
 * jahe
 * kunyit
+* lada 
 - produk hasil tangkapan laut
+- produk hasil pertanian
