@@ -1,7 +1,8 @@
 rencana ekspor zky
 - produk mentah
 * coconut
-* cacao
+* vanila
+* biji kopi
 - produk tekstil
 * alas kaki
 - produk kerjinan tangan
